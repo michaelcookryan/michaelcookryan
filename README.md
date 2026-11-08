@@ -1,4 +1,6 @@
-# Hi, I'm Michael 👋
+# Hey, I'm Mike 👋
+
+Michael on the paperwork, Mike everywhere else.
 
 I'm a frontend-focused Full Stack Developer with 10+ years of experience building web applications, specializing in **React, TypeScript, and enterprise frontend development**.
 
